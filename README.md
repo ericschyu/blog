@@ -1,5 +1,11 @@
 # just-the-docs-template
 
+## Run the local server
+
+```bash
+bundle exec jekyll serve
+```
+
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;

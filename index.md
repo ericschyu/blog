@@ -1,7 +1,11 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+permalink: /
 ---
+
+# write a page for me
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
